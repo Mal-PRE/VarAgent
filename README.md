@@ -1,2 +1,2 @@
-# FieldAgent
-The official repository of FieldAgent (under review)
+# VarAgent
+The official repository of VarAgent (under review)
